@@ -18,7 +18,7 @@ To run this project, you need:
 
 # Installation
 - **1.Clone the repository:**
-git clone https://github.com/your-repo/twitter-thread-generator.git
+git clone git@github.com:miranda-wang1013/Auto_Research_GPT.git
 
 - **2.Navigate to the project directory:**
 cd twitter-thread-generator
